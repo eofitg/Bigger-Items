@@ -1,0 +1,15 @@
+{
+    "parent": "block/obsidian",
+    "display": {
+        "thirdperson": {
+            "rotation": [ 30, 30, 0 ],
+            "translation": [ 0, -50, 0 ],
+            "scale": [ 4.5, 4.5, 4.5 ]
+		},
+"ground": {
+"rotation": [ 0, 10, 0 ],
+"translation": [ 0, 1, 0 ],
+"scale": [ 2, 2, 2 ]
+        }
+    }
+}
