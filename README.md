@@ -1,8 +1,6 @@
 # Bigger Items
 
----
-
-### Features
+## Features
 
 - **Potion**, **Milk Bucket**, **Pearl**, **Bow**, **Stick**, **Fire Charge**, and **Spawn Egg**
 - **Diamond**, **Emerald**, **Gold Ingot** & **Nugget**
